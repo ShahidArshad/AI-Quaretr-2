@@ -5,8 +5,9 @@ by Wes McKinney
 
 ## Resources
 
-The github repository contains the chapter wise code of "Python for Data Analysis, 2nd Edition by Wes McKinney."
+The GitHub repository contains the chapter-wise code of "Python for Data Analysis, 2nd Edition by Wes McKinney."
 
+Here we will focus on chapter#4 of the book covering Numpy basics.
 ```bash
 https://github.com/GPrasadDataScience/Python-for-Data-Analysis-2nd-Edition-wes-McKinney
 ```
