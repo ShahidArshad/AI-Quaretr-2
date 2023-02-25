@@ -3,6 +3,7 @@
 Python for Data Analysis, 2nd Edition
 by Wes McKinney
 
+ [Buy the book on Amazon](https://www.amazon.com/_/dp/1491957662?tag=oreilly20-20) 
 ## Resources
 
 The GitHub repository contains the chapter-wise code of "Python for Data Analysis, 2nd Edition by Wes McKinney."
